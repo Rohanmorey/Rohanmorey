@@ -1,1 +1,16 @@
-# aboutrohan
+### Hello Everyone, I'm Rohan More 👋
+
+I am a Robotics Software Engineer (ASL) at [Brane Enterprises](https://nslhub.com/). I am currently working on developing drones with advance capabilities using on-board computation. I have previously  worked with [Alstrut](http://www.alstrut.com/) as a Robotics team lead in deploying the autonomous mobile robots and robotic arm in industrial segments. I have done my internship in CSIR-Chandigarh in Computer Vision. 
+
+[![Linkedin Badge](www.linkedin.com/in/rohanmore90)](https://www.linkedin.com/in/rohanmore90/)
+
+
+## Find my growing web footprints 🌎:
+
+[![Medium Badge](https://medium.com/@rohanmore90)](https://medium.com/@rohanmore90)
+
+
+## How to reach me 📫:
+- Email: rohanmore90@gmail.com
+
+Thanks for walking through my profile. Stay Connected! 🙌🌱
